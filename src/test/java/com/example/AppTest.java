@@ -2,14 +2,14 @@ package com.example;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AppTest {
 
     @Test
-    void applicationTest() {
+    void applicationMessageTest() {
 
-        assertTrue(true);
+        assertEquals("Java DevOps Project", App.getMessage());
 
     }
 }
