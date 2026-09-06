@@ -31,3 +31,10 @@ java-devops-project
             └── com
                 └── example
                     └── App.java
+
+## Maven Commands
+
+### Compile the project
+
+```bash
+mvn compile
