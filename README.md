@@ -38,3 +38,10 @@ java-devops-project
 
 ```bash
 mvn compile
+
+## Running the Application
+
+First package the application:
+
+```bash
+mvn package
