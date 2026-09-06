@@ -45,3 +45,10 @@ First package the application:
 
 ```bash
 mvn package
+
+## Testing
+
+Unit tests are located in:
+
+```text
+src/test/java/com/example/AppTest.java
