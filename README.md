@@ -52,3 +52,30 @@ Unit tests are located in:
 
 ```text
 src/test/java/com/example/AppTest.java
+
+## CI/CD Plan
+
+This project will be extended with an automated CI/CD pipeline.
+
+The planned deployment flow is:
+
+```text
+Developer
+    ↓
+VS Code
+    ↓
+Git
+    ↓
+GitHub
+    ↓
+Jenkins
+    ↓
+Maven Build
+    ↓
+Unit Tests
+    ↓
+Ansible
+    ↓
+AWS EC2
+    ↓
+Java Application
