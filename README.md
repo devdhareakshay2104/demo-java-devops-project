@@ -20,6 +20,7 @@ GitHub → Jenkins → Maven → Ansible → AWS EC2
 
 ## Project Structure
 
+
 ```text
 java-devops-project
 ├── .gitignore
