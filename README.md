@@ -1,8 +1,9 @@
-# Java DevOps Project
+# Java DevOps Project:
 
 This is a Java Maven application created for learning DevOps and CI/CD.
 
-## Technologies
+
+## Technologies:
 
 - Java 21
 - Maven
@@ -12,7 +13,8 @@ This is a Java Maven application created for learning DevOps and CI/CD.
 - Ansible
 - AWS
 
-## Project Goal
+
+## Project Goal:
 
 The goal of this project is to create an automated CI/CD pipeline:
 
@@ -46,14 +48,16 @@ First package the application:
 ```bash
 mvn package
 
-## Testing
+## Testing:
+
 
 Unit tests are located in:
 
 ```text
 src/test/java/com/example/AppTest.java
 
-## CI/CD Plan
+## CI/CD Plan:
+
 
 This project will be extended with an automated CI/CD pipeline.
 
