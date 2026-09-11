@@ -20,7 +20,8 @@ The goal of this project is to create an automated CI/CD pipeline:
 
 GitHub → Jenkins → Maven → Ansible → AWS EC2
 
-## Project Structure
+
+## Project Structure:
 
 ```text
 java-devops-project
@@ -34,7 +35,7 @@ java-devops-project
                 └── example
                     └── App.java
 
-## Maven Commands
+## Maven Commands:
 
 ### Compile the project
 
@@ -48,16 +49,16 @@ First package the application:
 ```bash
 mvn package
 
-## Testing:
 
+## Testing:
 
 Unit tests are located in:
 
 ```text
 src/test/java/com/example/AppTest.java
 
-## CI/CD Plan:
 
+## CI/CD Plan:
 
 This project will be extended with an automated CI/CD pipeline.
 
