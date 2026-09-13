@@ -11,7 +11,7 @@ public class App {
         System.out.println("================================");
         System.out.println(getMessage());
         System.out.println("Application is running!");
-        System.out.println("Version 2.0");
+        System.out.println("Version 1.0");
         System.out.println("================================");
 
     }
