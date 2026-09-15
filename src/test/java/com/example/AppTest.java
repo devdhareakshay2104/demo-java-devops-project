@@ -9,7 +9,7 @@ public class AppTest {
     @Test
     void applicationMessageTest() {
 
-        assertEquals(" ", App.getMessage());
+        assertEquals("Java DevOps Project", App.getMessage());
 
     }
 }
