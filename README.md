@@ -83,4 +83,4 @@ Ansible
     ↓
 AWS EC2
     ↓
-Java Application
+Java Application.
