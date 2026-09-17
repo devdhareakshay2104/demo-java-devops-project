@@ -20,7 +20,34 @@ The goal of this project is to create an automated CI/CD pipeline:
 
 GitHub → Jenkins → Maven → Ansible → AWS EC2
 
+                 DEVELOPER
+                     |
+                     | git push
+                     ↓
+                  GITHUB
+                     |
+                     | Pull source code
+                     ↓
+                 JENKINS
+                     |
+                     | Maven Build
+                     ↓
+              Java Application
+                   Build
+                     |
+                     | .jar file
+                     ↓
+                 ANSIBLE
+                     |
+                     | SSH
+                     ↓
+              AWS EC2 SERVER
+                     |
+                     | Run Java Application
+                     ↓
+                APPLICATION
 
+                
 ## Project Structure:
 
 ```text
