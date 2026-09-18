@@ -1,4 +1,4 @@
-# Java DevOps Project:
+#Demo Java DevOps Project:
 
 This is a Java Maven application created for learning DevOps and CI/CD.
 
