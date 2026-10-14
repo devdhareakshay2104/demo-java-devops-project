@@ -1,4 +1,4 @@
-#Demo Java DevOps Project:
+#Demo Java DevOps Project :
 
 This is a Java Maven application created for learning DevOps and CI/CD.
 
@@ -14,7 +14,7 @@ This is a Java Maven application created for learning DevOps and CI/CD.
 - AWS
 
 
-## Project Goal:
+## Project Goal :
 
 The goal of this project is to create an automated CI/CD pipeline:
 
