@@ -3,7 +3,7 @@
 This is a Java Maven application created for learning DevOps and CI/CD.
 
 
-## Technologies:
+## Technologies :
 
 - Java 21
 - Maven
@@ -48,7 +48,7 @@ GitHub → Jenkins → Maven → Ansible → AWS EC2
                 APPLICATION
 
                 
-## Project Structure:
+## Project Structure :
 
 ```text
 java-devops-project
